@@ -48,5 +48,5 @@ Faculdade UNIFACS Tancredo Neves
 
 Estou sempre aberto a novos desafios, colaborações e oportunidades de aprendizado!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin-aqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/orlando-cruz-4209a1321)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the
