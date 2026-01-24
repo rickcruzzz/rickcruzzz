@@ -1,4 +1,4 @@
-# 👋 Olá! Bem-vindo ao meu GitHub
+# 👋 Bem-vindo ao meu GitHub
 
 <!-- ====== Redes sociais ====== -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_PERFIL_AQUI)
@@ -6,12 +6,10 @@
 [![Replit](https://img.shields.io/badge/Replit-374B58?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@SEU_USUARIO_AQUI)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique.systems/)
 
-<img align="right" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/stitch.png" width="140" alt="Mascote"/>
-
 ## 🚀 Sobre mim
-Eu sou **Orlando Cruz**, apaixonado por tecnologia e tudo que envolve criar com código.  
-Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na UNIFACS.  
-Adoro transformar ideias em projetos reais e estou sempre aprendendo algo novo seja uma linguagem, framework ou ferramenta que me desafie.
+Sou **Orlando Henrique Bastos da Cruz**, formação em **Análise e Desenvolvimento de Sistemas**.  
+Crio **SaaS**, **apps fullstack** e interfaces modernas com **React + Tailwind**.  
+Transformo ideias em código escalável e projetos que funcionam de verdade.
 
 ## 💻 Tecnologias que uso
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]
@@ -22,12 +20,9 @@ Adoro transformar ideias em projetos reais e estou sempre aprendendo algo novo s
 
 ---
 
-## 🔭 Alguns projetos
-- **Jogo de Naves em Java** – versão refatorada, mais limpa e organizada.  
-- **App de Exercícios Android** – em desenvolvimento, integra Google Maps para monitorar atividades físicas.
+## 🔭 Projetos em destaque
+- **SaaS & Apps Fullstack** – Plataformas escaláveis e interfaces modernas que entregam valor real.
 
 ## 📫 Me encontre por aí
 - Instagram: [@henrique.systems](https://www.instagram.com/henrique.systems/)  
 - Email: henriquestn24@gmail.com
-
-Sinta-se à vontade para explorar meus projetos ou trocar uma ideia! 🚀
