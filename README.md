@@ -3,7 +3,6 @@
 <!-- ====== Redes sociais ====== -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_PERFIL_AQUI)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquestn24@gmail.com)
-[![Replit](https://img.shields.io/badge/Replit-374B58?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@SEU_USUARIO_AQUI)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique.systems/)
 
 ## 🚀 Sobre mim
