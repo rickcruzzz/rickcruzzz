@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique.systems/)
 
 ## 🚀 Sobre mim
-Sou **Orlando Henrique Bastos da Cruz**, formação em **Análise e Desenvolvimento de Sistemas**.  
+Sou **Orlando Cruz**, formação em **Análise e Desenvolvimento de Sistemas**.  
 Crio **SaaS**, **apps fullstack** e interfaces modernas com **React + Tailwind**.  
 Transformo ideias em código escalável e projetos que funcionam de verdade.
 
